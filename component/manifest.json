@@ -1,0 +1,9 @@
+{
+  "domain": "custom_heatpump",
+  "name": "Custom Heatpump",
+  "documentation": "",
+  "requirements": [
+  ],
+  "dependencies": [],
+  "codeowners": []
+}

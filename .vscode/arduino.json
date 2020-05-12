@@ -1,0 +1,7 @@
+{
+    "board": "esp32:esp32:esp32",
+    "programmer": "AVR ISP",
+    "port": "192.168.20.15",
+    "sketch": "sketch/sketch.ino",
+    "output": "../build"
+}

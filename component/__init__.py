@@ -1,0 +1,1 @@
+"""The custom heatpump component."""
